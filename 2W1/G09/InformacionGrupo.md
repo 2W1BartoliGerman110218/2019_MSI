@@ -11,11 +11,11 @@
 | Legajo| Apellidos Nombres  | Cuenta GitHub | Linkedin
 | :------: | :-------- | :-------- | :-------- |
 | 110129 | Ayala, Emmanuel|[UsuarioGitHub](https://github.com/oscaleyala19)|[UserLinkedin]|
-| 110172 | Ayala, Oscar  |[UsuarioGitHub](https://github.com/oscaleyala19)|[UserLinkedin](https://www.linkedin.com/in/oscar-alejandro-ayala-61333815b)|
-| 108678 | Alonso, Ary  |[UsuarioGitHub]|[UserLinkedin]|
-| 109951 | Amaya, Facundo  |[UsuarioGitHub]|[UserLinkedin]|
-| 110218 | Bartoli, German  |[UsuarioGitHub]|[UserLinkedin]|
-| 110326 | Demat, Stefano  |[UsuarioGitHub]|[UserLinkedin](https://www.linkedin.com/in/stefano-demat-011b5a185)|
+| 110172 | Ayala, Oscar|[UsuarioGitHub](https://github.com/oscaleyala19)|[UserLinkedin](https://www.linkedin.com/in/oscar-alejandro-ayala-61333815b)|
+| 108678 | Alonso, Ary|[UsuarioGitHub]|[UserLinkedin]|
+| 109951 | Amaya, Facundo|[UsuarioGitHub]|[UserLinkedin]|
+| 110218 | Bartoli, German Ezequiel |[UsuarioGitHub](https://github.com/KillerBiss)|[UserLinkedin](https://www.linkedin.com/in/german-bartoli-9373a1174/)|
+| 110326 | Demat, Stefano|[UsuarioGitHub]|[UserLinkedin](https://www.linkedin.com/in/stefano-demat-011b5a185)|
 
 
 
